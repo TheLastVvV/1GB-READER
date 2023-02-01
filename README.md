@@ -6,3 +6,6 @@ create 1gb text file
 ``chmod +x fast.sh``
 
 ``./fast.sh``
+
+
+less than 5 seconds
